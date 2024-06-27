@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v1.0<br/>
-  <a href="https://vurudi.vercel.app/" target="_blank">vurudi.tech</a>
+  <a href="https://vurudi100.vercel.app/" target="_blank">vurudi.tech</a>
 </h2>
 
 
