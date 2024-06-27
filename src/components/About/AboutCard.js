@@ -11,7 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Dominic Vurudi </span>
             from <span className="purple"> Nairobi, Kenya.</span>
             <br />
-            I am currently employed as a software developer at Juspay.
+            I am currently employed as a software developer at Techspot.
             <br />
             I have completed barchelor of science in software engineering
             <br />
